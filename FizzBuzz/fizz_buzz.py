@@ -1,2 +1,2 @@
-def FizzBuzz(number):
-    return number
+def fizz_buzz(number):
+    return 5
